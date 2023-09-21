@@ -1,2 +1,3 @@
-# primerentregable-DS_movil
-Primer Entregable Desarrollo Movil 
+Grupo 8 
+Kevin Ditter David Posso 
+Raul Alejandro Acevedo Pulido
